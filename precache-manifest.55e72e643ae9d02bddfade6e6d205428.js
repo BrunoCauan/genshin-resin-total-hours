@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0f3010c64ff81b70c7157a11522f4715",
+    "revision": "3a3f4c3c508c248764ce50146902fd0e",
     "url": "/genshin-resin-total-hours/index.html"
   },
   {
