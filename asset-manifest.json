@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/genshin-resin-total-hours/static/css/main.440bb270.chunk.css",
+    "main.js": "/genshin-resin-total-hours/static/js/main.8db4b2d5.chunk.js",
+    "main.js.map": "/genshin-resin-total-hours/static/js/main.8db4b2d5.chunk.js.map",
+    "runtime-main.js": "/genshin-resin-total-hours/static/js/runtime-main.209f0f9e.js",
+    "runtime-main.js.map": "/genshin-resin-total-hours/static/js/runtime-main.209f0f9e.js.map",
+    "static/js/2.0b3ee5bb.chunk.js": "/genshin-resin-total-hours/static/js/2.0b3ee5bb.chunk.js",
+    "static/js/2.0b3ee5bb.chunk.js.map": "/genshin-resin-total-hours/static/js/2.0b3ee5bb.chunk.js.map",
+    "index.html": "/genshin-resin-total-hours/index.html",
+    "precache-manifest.3191cf46d84e2a40fcff511dc2afcbe0.js": "/genshin-resin-total-hours/precache-manifest.3191cf46d84e2a40fcff511dc2afcbe0.js",
+    "service-worker.js": "/genshin-resin-total-hours/service-worker.js",
+    "static/css/main.440bb270.chunk.css.map": "/genshin-resin-total-hours/static/css/main.440bb270.chunk.css.map",
+    "static/js/2.0b3ee5bb.chunk.js.LICENSE.txt": "/genshin-resin-total-hours/static/js/2.0b3ee5bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209f0f9e.js",
+    "static/js/2.0b3ee5bb.chunk.js",
+    "static/css/main.440bb270.chunk.css",
+    "static/js/main.8db4b2d5.chunk.js"
+  ]
+}
