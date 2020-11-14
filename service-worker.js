@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/genshin-resin-total-hours/precache-manifest.55e72e643ae9d02bddfade6e6d205428.js"
+  "/genshin-resin-total-hours/precache-manifest.7fb0a13e9ae85684cb901291e5c1f7a9.js"
 );
 
 self.addEventListener('message', (event) => {
